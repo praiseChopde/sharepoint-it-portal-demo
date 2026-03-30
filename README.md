@@ -64,5 +64,7 @@ Sample assets tracked:
 ## About Me
 
 Built by **Praise Chopde** as a portfolio project demonstrating SharePoint Online administration skills, modeled after a municipal IT help desk environment.
+For proof of my work, I have attatched screenshots of my work in this repo of everything I have done. It is through my UNB account, I used sharepoint to create a team site which is IT desk.
+You can see my initials for my UNB account on the top right of the page in the corner which says - PC standing for Praise Chopde
 
 Computer Science student, University of New Brunswick (2024–2028)
